@@ -1,0 +1,5 @@
+uni\edu\ni\programacion2\tableviewfx\App.class
+module-info.class
+uni\edu\ni\programacion2\tableviewfx\controller\ProductoFXMLController.class
+uni\edu\ni\programacion2\tableviewfx\controller\MainFXMLController.class
+uni\edu\ni\programacion2\tableviewfx\pojo\Producto.class
